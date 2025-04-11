@@ -114,8 +114,8 @@
 
 // src/App.js
 import React from 'react';
-import Dashboard from './Dashboard';
-import withAuth from './withAuth';
+// import Dashboard from './Dashboard';
+// import withAuth from './withAuth';
 import SeatBooking from './SeatBooking';
 
 const ProtectedDashboard = withAuth(Dashboard);
