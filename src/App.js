@@ -118,7 +118,7 @@ import React from 'react';
 // import withAuth from './withAuth';
 import SeatBooking from './SeatBooking';
 
-const ProtectedDashboard = withAuth(Dashboard);
+// const ProtectedDashboard = withAuth(Dashboard);
 
 function App() {
   return (
